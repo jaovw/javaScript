@@ -1,2 +1,2 @@
-# javaScriot
+# javaScript
 curso
