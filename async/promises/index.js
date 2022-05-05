@@ -42,3 +42,5 @@ conection('Primeira conexão sendo realizada.', rand(1,5)).then(r => {
 }).catch(e => {
   console.log(e)
 })
+
+console.log('Isso será exibido antes de tudo')
